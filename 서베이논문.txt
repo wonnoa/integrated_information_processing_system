@@ -1,0 +1,55 @@
+integrated information processing system
+
+definition :
+    a system, that can integrate information from different sources to make a complex decision and prediction.
+
+    important features are :
+        
+        1. real-time / updatable
+        2. logical inference - can distinguish facts and not facts based on acquired information
+        3. information integration - can integrate information acquired from multiple sources
+        4. decision / prediction making
+
+    example :
+
+        질문 -> 우리 회사에서 제품의 가격 인상을 진행할지 말지에 대해서 고려중이다. 어떻게 해야할까?
+        답변 -> 가격인상에서 고려해야할 변수들은 x,y,z 등이 있으며, 현재 이러한 변수들을 종합적으로 취합하여보았다. 그 결과, 가격인상을 x만큼 하는 것을 추천한다.
+        다만, 가격 인상의 목적이 무엇인지에 따라 궁금하다. 만약 특정 목적이 있으면, 가격 인상이 아니라 다른 방법들을 고려해볼 수도 있다.
+
+        질문 -> 난 지금 뭘해야할까?
+        답변 -> 인간 삶의 근본적인 목표는 행복이므로, 당신이라는 사람에 대해서 생각해보고, 현재 경제 상황이나 당신의 건강상태등 다양한 요소를 고려해보았을 때, 당신은
+        지금 xx를 하고 앞으로 xx하면 될 것 같습니다.
+
+research purpose :
+
+    Understand status quo and applied examples of integrated information processing system, which can integrate relevant information
+    from varied sources to make a decision and prediction. Ideally, this system is a small simulation of the real world.
+    With understanding, know how the current system is built, what is the capabilities of current system, its limitations and areas of improvement.
+    Specifically, we must understand the applied algorithms, so that we can build a miniature of integrated information processing system.
+
+narrowing down the scope :
+
+    Because of time constraint and limitations of expertise, I would like to narrow down the scope (the functionality of the system) of the research area.
+    복잡하고 광범위한 시스템인 AGI(General Artificial Intelligence)나 IBM Watson 같은 시스템의 원리를 이해하기 위하여,
+    이것과 비슷하지만 더 단순화된 모델을 통해 기본 원리와 알고리즘을 탐구하는 것을 시작점으로 한다.
+    
+    [구현할 시스템 기능]
+
+    중앙 정보 처리 / 추론 시스템을 기반으로 한 온라인 리서치 시스템.
+    '나'에 대한 정보, 새롭게 유입되는 전문가 지식, 온라인에서 얻어지는 정보등을 통합하고,
+    스스로의 추론 및 논리적 검증 능력을 활용하여 사용자가 해야할 다음 행동에 대하여 추천해 준다.
+
+    기존의 Chatgpt와 다른점은, 사용자가 직접 자신이 원하는 정보를 매번 chatgpt에 입력시키는 것이 아닌,
+    사용자에 대한 저장된 정보등을 스스로 가져와서 사용자에게 알맞는 정보를 제안한다는 것 이다.
+    온라인에서의 정보 또한, 자신만의 searching algorithm을 그 때, 그 때 활용하여 현재 작업에 필요한 알맞는 정보 수집방법을 택한다는 것 이다.
+
+approach :
+
+    I had two options
+        1. focus on building the system to learn
+        2. focus on writing an exploratory research paper first, then build the system
+
+    I chose option 2. 
+        why : i can acquire diverse knowledge and perspectives on it. I can choose optimal choice, rather than
+        being constrained in one method.
+

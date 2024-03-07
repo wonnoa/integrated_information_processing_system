@@ -1,0 +1,44 @@
+chatper 1.2 The foundations of artificial intelligence
+
+question remaining :
+
+1. so, is AI the system i want to build?
+2. what is the definition of AI this book talking about?
+    
+    :my understanding is that,
+    AI. simply, certain level of intelligence a system has, then called AI. there is no set definition of intelligence i would say.
+    the level of intelligence, simply lies on the complexity and precision of the task, that suits the situation to be solved.
+    it is simply the level of information acquiring, level of logical inference, giving out answers.
+    so current AI, whether machine learning, deep learning, or simply rule based coding, are attempting to
+    process information and give out answers, and continuity of this process.
+
+    so if, data is acquired right, and they are logically, physically rightly processed,
+    no need to mimic human intelligence whatsoever.
+    for dumb people, they define intelligence, simple computer seem like AI.
+
+    don't get hung up in the concept of AI.
+    if a program can process information, give out answers, whether AI, deeplearning, machinelearning, or simple coding system, or even nature,
+    it is AI and data processing system i want to build.
+
+    what's important is - 
+        what can it do, how much can it do.
+
+
+    so whether use any technology, my goal is information integration, processing, decision making, and prediction
+
+    next up. how is the automation of data processing, prediction, decision making being done today?
+    i don't care about, recognizing speech, text understanding or things like that.
+    even if it cannot talk, if it can make decision and predict, it is system of my needs.
+
+    best and ideal is to build an indepedent entity, that can get task and perform task.
+    in that, we will be able to make it understand, predict, and make decisions.
+
+    llm's can generate text.
+    in the process of generating text, isn't it making decisions based on learned information.
+    which means, it is a decision making system.
+
+[next up]
+
+what is the current situation of decision making and future prediction systems?
+how are these systems built?
+should i just build a system first that searches and reads from research papers to guide me?
